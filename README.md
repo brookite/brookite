@@ -19,7 +19,7 @@
 
 <div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brookite&theme=dark"/></div>
 
-<div id="mystats">
+<div id="mystats" align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brookite&theme=dark"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=brookite&theme=dark"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=brookite&card_width=300&theme=dark" alt="GitHub Streak" />
