@@ -1,21 +1,55 @@
-# Hi, I am Dmitry (Brookit) 💻☕ 
+# 👋 Hello, World! I am Dmitry (Brookit) 💻👨‍💻 
 
-👨‍💻 I'm a software engineer with a passion for backend development, particularly in Python, Java, and C#
+Welcome to my GitHub profile! 🚀 I'm a passionate **Full-Stack Developer**, an enthusiast of IT. Here, you'll find a mix of web applications, and algorithmic experiments! 🧠✨
 
-🛠️ I've crafted numerous small-scale projects aimed at streamlining everyday tasks
+## 🔥 About Me
+- 🖥 **Software Engineer** specialized in Full-Stack Web Development
+- 🤖 Interested in **Machine Learning & AI**
+- 📝 Exploring **Computer Linguistics** and building my own languages
+- ⚙️ I frequently write scripts and small applications to streamline my daily tasks 🛠️✨
+- 🔢 Passionate about **Mathematics**, including:
+  - 🎲 Probability Theory & Statistics
+  - 🔗 Discrete Mathematics
+  - 🔄 Mathematical Logic
 
-📚 While I primarily utilize GitHub for educational purposes, I'm also delving into the realms of data analysis and machine learning
+## 🛠 Tech Stack
+### 💡 Programming Languages
+- 🐍 **Python**
+- ☕ Java / Kotlin 
+- ⚡ **Rust** *(on my learning list!)* / C 
+- 🌐 JavaScript / TypeScript
+- 🚀 Go *(also learning!)*
+- 🐘 PHP *(when necessary)*
 
-🔍 My repository showcases a blend of backend development projects and explorations, reflecting my diverse interests and ongoing learning journey
+### 🔧 Tools & Frameworks
+#### 🌍 Web Frameworks
+- 🏗 **Django** + DRF
+- ⚡ **FastAPI**
+- 🔥 **Flask**
 
-<h3 align="center">Skills</h3>
+#### 📊 Data Science & Mathematics
+- 📈 **NumPy** / **SymPy**
+- 📊 **Pandas**
+- 🎨 **Matplotlib** / **Seaborn**
+
+#### 🛠 DevOps & Databases
+- 🐳 **Docker**
+- 🌱 **Git**
+- 🛢 **PostgreSQL / MySQL**
+
+## 📫 Let's Connect!
+- 🌐 Check out my projects on GitHub
+- 💬 Always open to discussions about IT
+- 🚀 Let's build something amazing together! 🎯
+
+<h2 align="center">Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,django,git,docker,postgres,linux,net,html,css,qt,js,markdown,raspberrypi,java,react,flask,cpp,nodejs,jquery,cs&perline=10" />
   </a>
 </p>
 
-<h3 align="center">Statistics</h3>
+<h2 align="center">Statistics</h2>
 
 <div align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brookite&theme=dark"/></div>
 
