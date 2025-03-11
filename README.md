@@ -1,4 +1,4 @@
-# 👋 Hello, World! I am Dmitry (Brookit) 💻👨‍💻 
+# 👋 Hello, World! I am Dmitry Shashkov (Brookit) 💻👨‍💻 
 
 Welcome to my GitHub profile! 🚀 I'm a passionate **Full-Stack Developer**, an enthusiast of IT. Here, you'll find a mix of web applications, and algorithmic experiments! 🧠✨
 
